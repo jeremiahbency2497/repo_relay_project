@@ -1,0 +1,5 @@
+{
+  "name": "Floating Dodge",
+  "description": "A high-octane 2D space survival game where you dodge drifting asteroids in zero gravity using smooth inertia-based controls.",
+  "requestFramePermissions": []
+}
